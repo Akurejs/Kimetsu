@@ -11,7 +11,7 @@ description: >-
 
 ### 📜 Informações
 
-Kimetsu é um bot discord feito em JavaScript, feito para ajudar você a moderar seu servidor, também possue comandos de Diversão onde ele interage com os usuários nos canais do seu servidor.
+Kimetsu é um bot Discord feito em JavaScript, feito para ajudar você a moderar seu servidor, também possue comandos de Diversão onde ele interage com os usuários nos canais do seu servidor.
 
 O Kimetsu é um bom que fica online 24/7 ajudando você em seu servidor em tarefas simples como, Banir, Expulsar, Silenciar entre outras coisas.
 
