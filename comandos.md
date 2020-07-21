@@ -82,9 +82,9 @@ O Kimetsu necessita de certas permissões para executar alguns desses comandos, 
 
 ## 🚀 Exemplo
 
-![/abra&#xE7;ar @usu&#xE1;rio](../.gitbook/assets/abracar.png)
+![/abra&#xE7;ar @usu&#xE1;rio](.gitbook/assets/abracar.png)
 
-![/abra&#xE7;ar @usu&#xE1;rio](../.gitbook/assets/abracar2.png)
+![/abra&#xE7;ar @usu&#xE1;rio](.gitbook/assets/abracar2.png)
 
 
 
