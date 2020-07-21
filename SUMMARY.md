@@ -4,5 +4,6 @@
 
 ## TUTORIAIS
 
+* [Changelog](tutoriais/changelog.md)
 * [Comandos](tutoriais/comandos.md)
 
