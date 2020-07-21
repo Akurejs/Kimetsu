@@ -12,6 +12,7 @@ OS seguintes recursos foram atualizados/implementados em nosso bot Kimetsu.
 * Reformulação dos comandos Warn e Warns para embed
 * Reformulação do comando Divorciar para embed
 * Reformulação do comando Casar para embed
+* Reformulação do comando soco para embed
 * Novos Comandos: Mute e Unmute
 * Algumas mensagens de comandos são deletadas após 10 segundos
 
