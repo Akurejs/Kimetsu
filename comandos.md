@@ -80,6 +80,24 @@ O Kimetsu necessita de certas permissões para executar alguns desses comandos, 
 * /ping - Mostra o delay bot-servidor. 
 * /avatar - Mostra o seu atavar ou mencione alguem para ver o avatar.
 
+## 💵 Comandos de Economia
+
+* /darpontos  &lt;usuário- Adiciona Kimes para um usuário
+*  /tirarpontos  - Remove Kimes da conta do usuário 
+* /apostar &lt;quantidade- Aposta uma quantidade de Kimes
+*  /comprar - &lt;carro / nikes / broze / mansão - Faz compras na loja de Kimes /daily - Recebe uma quantidade aleatória de Kimes a cada 24h 
+* /depositar  - Deposita uma quantidade de Kimes no banco 
+* /sacar  - Saca uma quantidade de Kimes do banco 
+* /emprego - Se junta a um emprego para ganhar Kimes 
+* /trabalhar - Trabalha e ganha uma quantidade aleatória de Kimes a cada 5h /pagar &lt;quantidade - Transfere uma quantidade de Kimes para outro membro 
+* /perfil - Veja o seu perfil completo ou de outros membros basta /perfil @usuário
+*  /reputação  - Da um ponto de reputação ao usuário mencionado 1 vez a cada 24h 
+* /roleta  - Aposta Kimes na roleta 
+* /roletacor   - Aposta Kimes na roleta \| Vermelho, preto ou verde 
+* /roubar &lt;@usuário&gt; - Rouba uma quantidade de Kimes do usuário - VIPS ROUBAM MAIS 
+* /saldo - Veja a quantidade de Kimes que você tem na carteira 
+* /saldobanco - Veja a quantidade de Kimes que você tem no banco
+
 ## 🚀 Exemplo
 
 ![/abra&#xE7;ar @usu&#xE1;rio](.gitbook/assets/abracar.png)
