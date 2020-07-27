@@ -27,12 +27,18 @@ O Kimetsu necessita de certas permissões para executar alguns desses comandos, 
 * /votação   - Abre uma votação em um canal. 
 * /say - Envia uma mensagem com o bot.
 
-## ⚙️ Geral
+## ⚙️ Configuração
 
 *  /prefix `<prefix>` - Altera o prefix do bot no servidor. 
 * /comandocustom - Adiciona um comando customizado ao bot. 
 * /modolento `<segundos>` - Ativa o modo lento no canal.
 *  /giveaway `<tempo - canal - premio>` - Faça Doação de premios.
+*  /bemvindos `<#canal>` - Ativa mensagem de boas-vindas em um canal.
+* /saida `<#canal>` - Ativa mensagem de saida em um canal.
+* /autorole `<@Cargo>` - Da um cargo automatico quando membro entra no servidor. 
+* /bemvindosoff - Desativa mensagem de bem-vindos
+*  /saidaoff - Desativa mensagem de saida
+*  /autoroleoff `<@cargo>` - Desativa cargo automático no qual você definiu.
 
 ## 😂 Comandos para Membros do servidor
 
