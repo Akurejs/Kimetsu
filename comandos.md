@@ -27,12 +27,18 @@ O Kimetsu necessita de certas permissões para executar alguns desses comandos, 
 * /votação   - Abre uma votação em um canal. 
 * /say - Envia uma mensagem com o bot.
 
-## ⚙️ Geral
+## ⚙️ Configuração
 
 *  /prefix `<prefix>` - Altera o prefix do bot no servidor. 
 * /comandocustom - Adiciona um comando customizado ao bot. 
 * /modolento `<segundos>` - Ativa o modo lento no canal.
 *  /giveaway `<tempo - canal - premio>` - Faça Doação de premios.
+*  /bemvindos `<#canal>` - Ativa mensagem de boas-vindas em um canal.
+* /saida `<#canal>` - Ativa mensagem de saida em um canal.
+* /autorole `<@Cargo>` - Da um cargo automatico quando membro entra no servidor. 
+* /bemvindosoff - Desativa mensagem de bem-vindos
+*  /saidaoff - Desativa mensagem de saida
+*  /autoroleoff `<@cargo>` - Desativa cargo automático no qual você definiu.
 
 ## 😂 Comandos para Membros do servidor
 
@@ -97,6 +103,18 @@ O Kimetsu necessita de certas permissões para executar alguns desses comandos, 
 * /roubar &lt;@usuário&gt; - Rouba uma quantidade de Kimes do usuário - VIPS ROUBAM MAIS 
 * /saldo - Veja a quantidade de Kimes que você tem na carteira 
 * /saldobanco - Veja a quantidade de Kimes que você tem no banco
+
+## 🎶 Comandos de Música
+
+* /play nome da música - Pede uma música
+*  /stop - Para a reprodução da música
+*  /skip - Pula para próxima música da fila
+*  /volume de 1 ao 100 - Aumenta ou abaixa o volume 
+* /pause - Pausa a música que está tocando 
+* /tocar - Volta a tocar a música pausada
+*  /tocando - Diz a música que está tocando
+*  /limpar - Limpa a fila de música
+*  /queue - Diz a fila de música
 
 ## 🚀 Exemplo
 
