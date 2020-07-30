@@ -119,6 +119,18 @@ O Kimetsu necessita de certas permissões para executar alguns desses comandos, 
 * /saldo - Veja a quantidade de Kimes que você tem na carteira 
 * /saldobanco - Veja a quantidade de Kimes que você tem no banco
 
+## 🎶 Comandos de Música
+
+* /play nome da música - Pede uma música
+*  /stop - Para a reprodução da música
+*  /skip - Pula para próxima música da fila
+*  /volume de 1 ao 100 - Aumenta ou abaixa o volume 
+* /pause - Pausa a música que está tocando 
+* /tocar - Volta a tocar a música pausada
+*  /tocando - Diz a música que está tocando
+*  /limpar - Limpa a fila de música
+*  /queue - Diz a fila de música
+
 ### 🚀 Exemplo
 
 ![/abra&#xE7;ar @usu&#xE1;rio](.gitbook/assets/abracar.png)
